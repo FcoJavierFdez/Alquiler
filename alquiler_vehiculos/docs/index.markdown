@@ -88,35 +88,35 @@ layout: default
 ## WIREFRAMES.
 *Pantalla login*
 ---
-![Pantalla 1](Pantalla1.png)
+![Pantalla 1](https://github.com/FcoJavierFdez/Alquiler/blob/master/alquiler_vehiculos/docs/img/Pantalla1.png)
 
 *Pantalla Visualizar Coches*
 ---
-![Pantalla 2](Pantalla2.png)
+![Pantalla 2](https://github.com/FcoJavierFdez/Alquiler/blob/master/alquiler_vehiculos/docs/img/Pantalla2.png)
 
 *Pantalla Creación Nuevo Alquiler*
 ---
-![Pantalla 3](Pantalla3.png)
+![Pantalla 3](https://github.com/FcoJavierFdez/Alquiler/blob/master/alquiler_vehiculos/docs/img/Pantalla3.png)
 
 *Pantalla Selección Equipamientos Adicionales*
 ---
-![Pantalla 4](Pantalla4.png)
+![Pantalla 4](https://github.com/FcoJavierFdez/Alquiler/blob/master/alquiler_vehiculos/docs/img/Pantalla4.png)
 
 *Pantalla Gestión Datos Cliente*
 ---
-![Pantalla 5](Pantalla5.png)
+![Pantalla 5](https://github.com/FcoJavierFdez/Alquiler/blob/master/alquiler_vehiculos/docs/img/Pantalla5.png)
 
 *Pantalla Asignación del vehiculo al contrato*
 ---
-![Pantalla 6](Pantalla6.png)
+![Pantalla 6](https://github.com/FcoJavierFdez/Alquiler/blob/master/alquiler_vehiculos/docs/img/Pantalla6.png)
 
 *Pantalla Factura Alquiler*
 ---
-![Pantalla 7](Pantalla7.png)
+![Pantalla 7](https://github.com/FcoJavierFdez/Alquiler/blob/master/alquiler_vehiculos/docs/img/Pantalla7.png)
 
 *Pantalla Envío Encuesta*
 ---
-![Pantalla 8](Pantalla8.png)
+![Pantalla 8](https://github.com/FcoJavierFdez/Alquiler/blob/master/alquiler_vehiculos/docs/img/Pantalla8.png)
 
 
 ## CONTROL DE ACCESOS. ¿Qué grupos existen?¿Quién puede acceder o no al módulo?¿ A qué modelos? ¿a qué registros? ¿Con qué permisos?
@@ -169,37 +169,37 @@ Tras finalizar el alquiler el cliente recibe una encuesta. Los responsables anal
 ## DIAGRAMAS DE FLUJOS FUNCIONALES
 *Inicio de sesión y autenticación*
 ---
-![Diagrama 1](Diagrama1.png)
+![Diagrama 1](https://github.com/FcoJavierFdez/Alquiler/blob/master/alquiler_vehiculos/docs/img/Diagrama1.png)
 ---
 *Visualización de vehículos*
 ---
-![Diagrama 2](Diagrama2.png)
+![Diagrama 2](https://github.com/FcoJavierFdez/Alquiler/blob/master/alquiler_vehiculos/docs/img/Diagrama2.png)
 ---
 *Creación de nuevo alquiler*
 ---
-![Diagrama 3](Diagrama3.png)
+![Diagrama 3](https://github.com/FcoJavierFdez/Alquiler/blob/master/alquiler_vehiculos/docs/img/Diagrama3.png)
 ---
 *Selección de equipamientos adicionales*
 ---
-![Diagrama 4](Diagrama4.png)
+![Diagrama 4](https://github.com/FcoJavierFdez/Alquiler/blob/master/alquiler_vehiculos/docs/img/Diagrama4.png)
 ---
 *Gestión de datos del cliente*
 ---
-![Diagrama 5](Diagrama5.png)
+![Diagrama 5](https://github.com/FcoJavierFdez/Alquiler/blob/master/alquiler_vehiculos/docs/img/Diagrama5.png)
 ---
 *Asignación y control de vehículos*
 ---
-![Diagrama 6](Diagrama6.png)
+![Diagrama 6](https://github.com/FcoJavierFdez/Alquiler/blob/master/alquiler_vehiculos/docs/img/Diagrama6.png)
 ---
 *Facturación y pagos*
 ---
-![Diagrama 7](Diagrama7.png)
+![Diagrama 7](https://github.com/FcoJavierFdez/Alquiler/blob/master/alquiler_vehiculos/docs/img/Diagrama7.png)
 ---
 *Envío y respuesta de encuesta*
 ---
-![Diagrama 8](Diagrama8.png)
+![Diagrama 8](https://github.com/FcoJavierFdez/Alquiler/blob/master/alquiler_vehiculos/docs/img/Diagrama8.png)
 ---
 
 ## ESQUEMA RELACIONAL DE LAS NUEVAS TABLAS EN LA BASE DE DATOS Y RELACION CON OTRAS EXISTENTES
-![Diagrama ER](DiagramaER.png)
+![Diagrama ER](https://github.com/FcoJavierFdez/Alquiler/blob/master/alquiler_vehiculos/docs/img/DiagramaER.png)
 
