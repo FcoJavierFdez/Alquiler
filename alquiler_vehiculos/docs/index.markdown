@@ -53,7 +53,7 @@ layout: default
 
 ## MAPA DEL MODULO
 
-![mapa del modulo](MapaModulo.drawio.png)
+![mapa del modulo](https://github.com/FcoJavierFdez/Alquiler/blob/master/alquiler_vehiculos/docs/img/MapaModulo.drawio.png)
 
 ## DEPENDENCIAS DE OTROS MODULOS
 *Flota*
