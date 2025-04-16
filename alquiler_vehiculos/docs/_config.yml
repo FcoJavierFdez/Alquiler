@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Este módulo permite gestionar la creación, firma y control de contratos de 
   alquiler de vehículos de manera automatizada. Facilita la asignación de vehículos, la firma digital,
   la facturación y el seguimiento de pagos, optimizando la experiencia del cliente y la administración de la flota.
-baseurl: "alquilerVehiculos" # the subpath of your site, e.g. /blog
+baseurl: "/Alquiler" # the subpath of your site, e.g. /blog
 url: "https://FcoJavierFdez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
